@@ -22,7 +22,7 @@ const App=()=> {
     <Router>
       <NavBar/>
       <Routes>
-        <Route path='/home' exact Component={Home}/>
+        <Route path='/' exact Component={Home}/>
         <Route path='/about' exact Component={About}/>
         <Route path='/blog' exact Component={Blog}/>
         <Route path='/portfolio' exact Component={Portfolio}/>

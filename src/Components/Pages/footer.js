@@ -17,7 +17,7 @@ const Footer =()=>{
                  textAlign: "center", 
                  marginTop: "-50px"
             }}
-            >I’m a web developer, based in West Bengal. Currently a freelancer. You can see my hobbies on @manab-pratim and some photos on me too.</h3>
+            >I’m a web developer, based in West Bengal. Currently a freelancer,follow me on github @manab-pr.</h3>
             <hr/>
             <Container>
                 <Row>
